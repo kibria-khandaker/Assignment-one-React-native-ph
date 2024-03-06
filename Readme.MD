@@ -1,6 +1,6 @@
 # React native App for Assignment one:
 
-### Code Video Record :
+### Code Video Record Screenshot:
 
 ### https://drive.google.com/file/d/1sKBSOHhB9eGwaH2-zqno13mLzKjsDS-f/view?usp=sharing
 

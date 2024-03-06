@@ -4,7 +4,7 @@
 
 https://drive.google.com/file/d/1sKBSOHhB9eGwaH2-zqno13mLzKjsDS-f/view?usp=sharing
 
-[Code Video Record](https://drive.google.com/file/d/1sKBSOHhB9eGwaH2-zqno13mLzKjsDS-f/view?usp=sharing)
+![Code Video Record](https://drive.google.com/file/d/1sKBSOHhB9eGwaH2-zqno13mLzKjsDS-f/view?usp=sharing)
 
 
 ### Code Screenshot :
